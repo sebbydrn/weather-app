@@ -9,7 +9,12 @@ This project is developed to provide quick weather information for foreign touri
 
 ## Screenshots
 
+Home:
+
 ![ScreenShot](https://github.com/sebbydrn/readme-contents/blob/main/weather-app/weather-app-home.png)
+
+
+Results:
 
 ![ScreenShot](https://github.com/sebbydrn/readme-contents/blob/main/weather-app/weather-app-results.png)
 
